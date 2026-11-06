@@ -4,14 +4,9 @@ Una serie de scripts y herramientas usando UV para el manejo de entorno virtuale
 
 # Contenido
 
-- Frida
-    - Versiones probadas y funcionales
-    - 16.5.2
-        - Frida
-        - Objection en Iphone 8 iOS 16.7.11
-    - 17.8.0
-        - Frida
-        - Objection no funciona
++ Frida
+  + Distintas versiones de Frida
+  + scripts
 
 # Instalación de UV
 
